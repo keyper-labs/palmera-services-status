@@ -1,8 +1,7 @@
 url: https://client-gateway-prod.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 375
-lastUpdated: 2025-01-22T15:22:36.954Z
+responseTime: 666
+lastUpdated: 2025-01-22T15:57:47.181Z
 startTime: 2024-06-14T14:46:50.293Z
 generator: Upptime <https://github.com/upptime/upptime>
-name: "Palmera Core Client Gateway"
