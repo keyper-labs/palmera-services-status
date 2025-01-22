@@ -33,13 +33,13 @@ status-website:
   favicon: https://app.palmeradao.xyz/favicon.ico
   introMessage: Palmera Services Status
   introTitle: Status for the **Palmera Services**
-  # baseUrl: /palmera-services-status
-  logoUrl: https://pbs.twimg.com/profile_images/1643941027898613760/gyhYEOCE_400x400.jpg
+  baseUrl: /palmera-services-status
+  logoUrl: https://2047386747-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5XJ6DPuAnCiNORg51ulK%2Fuploads%2FpNt05Qf4ymTQqESZAa2A%2FPalmeraLogo_Black.png?alt=media&token=f25b330f-3056-47c9-92ce-d55ce4133728
   name: Palmera Services Status
   navbar:
     - href: https://status.palmeradao.xyz
       title: Indexing Status
-    - href: https://www.palmeradao.xyz/deploy-safe-chain
+    - href: https://palmeradao.xyz/deploy-safe-chain
       title: Palmera Infrastructure
     - href: https://docs.palmeradao.xyz/
       title: Dev docs
