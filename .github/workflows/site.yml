@@ -32,17 +32,25 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
+
       - name: Generate site
         uses: upptime/uptime-monitor@v1.38.0
         with:
           command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
+
+      - name: List generated files for debugging
+        run: |
+          echo "Checking contents of the generated site directory:"
+          ls -la site/status-page/__sapper__/export/
+        continue-on-error: true  # Permite continuar incluso si falla
+
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
           github_token: ${{ secrets.GH_PAT || github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
-          force_orphan: "false"
+          force_orphan: true  # Forzar el despliegue como una rama huérfana
           user_name: "Upptime Bot"
           user_email: "73812536+upptime-bot@users.noreply.github.com"
