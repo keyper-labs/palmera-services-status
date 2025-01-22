@@ -30,7 +30,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://uptime.keypersafe.xyz)
+[**Visit our status website →**](https://keyper-labs.github.io/palmera-services-status)
 
 ## 📄 License
 
