@@ -5,6 +5,8 @@ repo: palmera-services-status
 sites:
   - name: Palmera Core Client Gateway
     url: https://client-gateway-prod.keypersafe.xyz/health/ready/
+  - name: Palmera Core Config Services
+    url: https://config.prod.keypersafe.xyz/check/
   - name: Palmera Tx Service (Mainnet)
     url: https://prod.mainnet.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Gnosis Chain)
