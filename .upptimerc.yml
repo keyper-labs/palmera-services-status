@@ -1,68 +1,45 @@
+---
 # Change these first
-owner: safe-global # Your GitHub organization or username, where this repository lives
-repo: safe-services-status # The name of this repository
-skipTopicsUpdate: true
+owner: keyper-labs
+repo: palmera-services-status
 sites:
-  - name: Safe Client Gateway
-    url: https://safe-client.safe.global/health/ready/
-  - name: Safe Tx Service (Mainnet)
-    url: https://safe-transaction-mainnet.safe.global/check/
-  - name: Safe Tx Service (Gnosis Chain)
-    url: https://safe-transaction-gnosis-chain.safe.global/check/
-  - name: Safe Tx Service (Sepolia)
-    url: https://safe-transaction-sepolia.safe.global/check/
-  - name: Safe Tx Service (Binance Smart Chain)
-    url: https://safe-transaction-bsc.safe.global/check/
-  - name: Safe Tx Service (Polygon - Matic)
-    url: https://safe-transaction-polygon.safe.global/check/
-  - name: Safe Tx Service (Polygon - zkEVM)
-    url: https://safe-transaction-zkevm.safe.global/check/
-  - name: Safe Tx Service (Base Mainnet)
-    url: https://safe-transaction-base.safe.global/check/
-  - name: Safe Tx Service (Base Sepolia)
-    url: https://safe-transaction-base-sepolia.safe.global/check/
-  - name: Safe Tx Service (Celo)
-    url: https://safe-transaction-celo.safe.global/check/
-  - name: Safe Tx Service (Arbitrum)
-    url: https://safe-transaction-arbitrum.safe.global/check/
-  - name: Safe Tx Service (Avalanche)
-    url: https://safe-transaction-avalanche.safe.global/check/
-  - name: Safe Tx Service (Optimism)
-    url: https://safe-transaction-optimism.safe.global/check/
-  - name: Safe Tx Service (Aurora)
-    url: https://safe-transaction-aurora.safe.global/check/
-  - name: Safe Tx Service (zkSync Era Mainnet)
-    url: https://safe-transaction-zksync.safe.global/check/
-  - name: Safe Tx Service (xLayer)
-    url: https://safe-transaction-xlayer.safe.global/check/
-  - name: Safe Tx Service (Scroll)
-    url: https://safe-transaction-scroll.safe.global/check/
-  - name: Safe Tx Service (Linea)
-    url: https://safe-transaction-linea.safe.global/check/
-  - name: Safe Tx Service (Chiado)
-    url: https://safe-transaction-chiado.safe.global/check/
-  - name: Safe Tx Service (Mantle)
-    url: https://safe-transaction-mantle.safe.global/check/
-  - name: Safe Tx Service (Sonic)
-    url: https://safe-transaction-sonic.safe.global/check/
-  - name: Safe Tx Service (Ink)
-    url: https://safe-transaction-ink.safe.global/check/
+  - name: Palmera Client Gateway
+    url: https://client-gateway-prod.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Mainnet)
+    url: https://prod.mainnet.transaction.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Gnosis Chain)
+    url: https://prod.gnosis.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Sepolia)
+    url: https://dev.sepolia2.transaction.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Polygon - Matic)
+    url: https://prod.polygon.transaction.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Base Mainnet)
+    url: https://prod.base.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Celo)
+    url: https://prod.celo.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Arbitrum)
+    url: https://prod.arbitrum.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Optimism)
+    url: https://prod.optimism.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Treasure)
+    url: https://prod.treasure.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Arthera)
+    url: https://prod.arthera.transaction.keypersafe.xyz/check/
+skipTopicsUpdate: true
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.safe.global
-  # baseUrl: /safe-services-status
-  logoUrl: https://pbs.twimg.com/profile_images/1643941027898613760/gyhYEOCE_400x400.jpg
-  name: Safe Ecosystem Foundation Backend Status
-  introTitle: Status for the **Safe Ecosystem Foundation** Backend
-  introMessage: Safe Ecosystem Foundation Backend Status
-  favicon: https://app.safe.global/favicon.ico
+  # cname: uptime.keypersafe.xyz
+  favicon: https://app.palmeradao.xyz/favicon.ico
+  introMessage: Palmera Services Status
+  introTitle: Status for the **Palmera Services**
+  baseUrl: /palmera-services-status
+  logoUrl: https://2047386747-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5XJ6DPuAnCiNORg51ulK%2Fuploads%2FpNt05Qf4ymTQqESZAa2A%2FPalmeraLogo_Black.png?alt=media&token=f25b330f-3056-47c9-92ce-d55ce4133728
+  name: Palmera Services Status
   navbar:
-    - title: Indexing Status
-      href: https://status.safe.global
-    - title: Safe Infrastructure
-      href: https://github.com/safe-global/safe-infrastructure
-    - title: Help docs
-      href: https://help.safe.global/en/
-    - title: Dev docs
-      href: https://docs.safe.global/
+    - href: https://status.palmeradao.xyz
+      title: Indexing Status
+    - href: https://palmeradao.xyz/deploy-safe-chain
+      title: Palmera Infrastructure
+    - href: https://docs.palmeradao.xyz/
+      title: Dev docs
