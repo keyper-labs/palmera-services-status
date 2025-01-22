@@ -1,7 +1,7 @@
+---
 # Change these first
-owner: Palmera Dao # Your GitHub organization or username, where this repository lives
-repo: palmera-services-status # The name of this repository
-skipTopicsUpdate: true
+owner: Palmera Dao
+repo: palmera-services-status
 sites:
   - name: Palmera Client Gateway
     url: https://client-gateway-prod.keypersafe.xyz/health/ready/
@@ -21,21 +21,25 @@ sites:
     url: https://prod.arbitrum.keypersafe.xyz/check/
   - name: Palmera Tx Service (Optimism)
     url: https://prod.optimism.keypersafe.xyz/check/
-
+  - name: Palmera Tx Service (Treasure)
+    url: https://prod.treasure.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Arthera)
+    url: https://prod.arthera.transaction.keypersafe.xyz/check/
+skipTopicsUpdate: true
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.keypersafe.xyz
+  favicon: https://app.palmeradao.xyz/favicon.ico
+  introMessage: Palmera Services Status
+  introTitle: Status for the **Palmera Services**
   # baseUrl: /palmera-services-status
   logoUrl: https://pbs.twimg.com/profile_images/1643941027898613760/gyhYEOCE_400x400.jpg
   name: Palmera Services Status
-  introTitle: Status for the **Palmera Services**
-  introMessage: Palmera Services Status
-  favicon: https://app.palmeradao.xyz/favicon.ico
   navbar:
-    - title: Indexing Status
-      href: https://status.palmeradao.xyz
-    - title: Palmera Infrastructure
-      href: https://www.palmeradao.xyz/deploy-safe-chain
-    - title: Dev docs
-      href: https://docs.palmeradao.xyz/
+    - href: https://status.palmeradao.xyz
+      title: Indexing Status
+    - href: https://www.palmeradao.xyz/deploy-safe-chain
+      title: Palmera Infrastructure
+    - href: https://docs.palmeradao.xyz/
+      title: Dev docs
