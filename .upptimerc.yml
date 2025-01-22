@@ -3,7 +3,7 @@
 owner: keyper-labs
 repo: palmera-services-status
 sites:
-  - name: Palmera Client Gateway
+  - name: Palmera Core Client Gateway
     url: https://client-gateway-prod.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Mainnet)
     url: https://prod.mainnet.transaction.keypersafe.xyz/check/
@@ -27,13 +27,13 @@ sites:
     url: https://prod.arthera.transaction.keypersafe.xyz/check/
 skipTopicsUpdate: true
 status-website:
+  baseUrl: /palmera-services-status
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: uptime.keypersafe.xyz
   favicon: https://app.palmeradao.xyz/favicon.ico
   introMessage: Palmera Services Status
   introTitle: Status for the **Palmera Services**
-  baseUrl: /palmera-services-status
   logoUrl: https://2047386747-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5XJ6DPuAnCiNORg51ulK%2Fuploads%2Fqa0DwfBMwvw2oeITSqX4%2FPalmera-Sunset%20Logo.jpg?alt=media&token=ef3743e0-3a04-4fc4-98a4-fdc34efbf9cc
   name: Palmera Services Status
   navbar:
