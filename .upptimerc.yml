@@ -11,8 +11,6 @@ sites:
     url: https://prod.mainnet.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Gnosis Chain)
     url: https://prod.gnosis.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Sepolia)
-    url: https://dev.sepolia2.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Polygon - Matic)
     url: https://prod.polygon.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Base Mainnet)
@@ -27,6 +25,27 @@ sites:
     url: https://prod.treasure.keypersafe.xyz/check/
   - name: Palmera Tx Service (Arthera)
     url: https://prod.arthera.transaction.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Cheese)
+    url: https://prod.cheese.transaction.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Chronicle Yellowstone)
+    url: https://prod.chronicle-yellowstone.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Conwai)
+    url: https://prod.conwai.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Flare)
+    url: https://prod.flare.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Form)
+    url: https://prod.form.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Fuse)
+    url: https://prod.fuse.transaction.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Goat Network)
+    url: https://prod.goat-network.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Neox)
+    url: https://prod.neox.transaction.keypersafe.xyz/check/
+  - name: Palmera Tx Service (XRPL EVM)
+    url: https://prod.xrplevm.transaction.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Zeronet Mainnet)
+    url: https://prod.zeronet-mainnet.transaction.keypersafe.xyz/check/
+
 skipTopicsUpdate: true
 status-website:
   baseUrl: /palmera-services-status
