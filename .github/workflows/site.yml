@@ -38,6 +38,10 @@ jobs:
           command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - name: Add CNAME for custom domain
+        run: echo "uptime.keypersafe.xyz" > site/status-page/__sapper__/export/CNAME
+      - name: Validate build output
+        run: test -d site/status-page/__sapper__/export/
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
