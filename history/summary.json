@@ -160,5 +160,41 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Palmera Tx Service (Treasure)",
+    "url": "https://prod.treasure.keypersafe.xyz/check/",
+    "icon": "https://icons.duckduckgo.com/ip3/prod.treasure.keypersafe.xyz.ico",
+    "slug": "palmera-tx-service-treasure",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Palmera Tx Service (Arthera)",
+    "url": "https://prod.arthera.transaction.keypersafe.xyz/check/",
+    "icon": "https://icons.duckduckgo.com/ip3/prod.arthera.transaction.keypersafe.xyz.ico",
+    "slug": "palmera-tx-service-arthera",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
