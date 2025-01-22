@@ -43,7 +43,7 @@ jobs:
       - name: List generated files for debugging
         run: |
           echo "Checking contents of the generated site directory:"
-          ls -la site/status-page/__sapper__/export/
+          ls -la __sapper__/export/
         continue-on-error: true  # Permite continuar incluso si falla
 
       - uses: peaceiris/actions-gh-pages@v4
