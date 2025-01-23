@@ -1,7 +1,7 @@
 url: https://prod.chronicle-yellowstone-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 191
-lastUpdated: 2025-01-23T15:07:37.165Z
+responseTime: 220
+lastUpdated: 2025-01-23T15:20:41.304Z
 startTime: 2025-01-23T14:23:55.180Z
 generator: Upptime <https://github.com/upptime/upptime>
