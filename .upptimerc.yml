@@ -2,6 +2,27 @@
 # Change these first
 owner: keyper-labs
 repo: palmera-services-status
+crons:
+  - name: Uptime CI
+    on:
+      schedule:
+        - cron: "*/5 * * * *"
+  - name: Graphs CI
+    on:
+      schedule:
+        - cron: "*/10 * * * *"
+  - name: Response Time CI
+    on:
+      schedule:
+        - cron: "*/20 * * * *"
+  - name: Summary CI
+    on:
+      schedule:
+        - cron: "*/30 * * * *"
+  - name: Static Site CI
+    on:
+      schedule:
+        - cron: "0 * * * *"
 sites:
   - name: Palmera Core Client Gateway
     url: https://client-gateway-prod.keypersafe.xyz/health/ready/
