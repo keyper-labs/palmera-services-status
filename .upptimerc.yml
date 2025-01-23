@@ -7,18 +7,22 @@ crons:
     on:
       schedule:
         - cron: "*/5 * * * *"
+  - name: Updates CI
+    on:
+      schedule:
+        - cron: "*/5 * * * *"
   - name: Graphs CI
     on:
       schedule:
-        - cron: "*/10 * * * *"
+        - cron: "*/5 * * * *"
   - name: Response Time CI
     on:
       schedule:
-        - cron: "*/20 * * * *"
+        - cron: "*/5 * * * *"
   - name: Summary CI
     on:
       schedule:
-        - cron: "*/30 * * * *"
+        - cron: "30 * * * *"
   - name: Static Site CI
     on:
       schedule:
@@ -50,22 +54,40 @@ sites:
     url: https://prod.cheese.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Chronicle Yellowstone)
     url: https://prod.chronicle-yellowstone.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Chronicle Yellowstone Mainnet)
+    url: https://prod.chronicle-yellowstone-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Conwai)
     url: https://prod.conwai.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Conwai Mainnet)
+    url: https://prod.conwai-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Degen)
+    url: https://prod.degen.keypersafe.xyz/check/
   - name: Palmera Tx Service (Flare)
     url: https://prod.flare.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Flare Mainnet)
+    url: https://prod.flare-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Form)
     url: https://prod.form.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Form Mainnet)
+    url: https://prod.form-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Fuse)
     url: https://prod.fuse.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Goat Network)
     url: https://prod.goat-network.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Goat Network Mainnet)
+    url: https://prod.goat-network-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Neox)
     url: https://prod.neox.transaction.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Neox Mainnet)
+    url: https://prod.neox-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Neox Testnet)
+    url: https://prod.neox-t.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (XRPL EVM)
     url: https://prod.xrplevm.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Zeronet Mainnet)
     url: https://prod.zeronet-mainnet.transaction.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Zeronet Mainnet)
+    url: https://prod.wl-client-gateway.keypersafe.xyz/health/ready/
 
 skipTopicsUpdate: true
 status-website:
