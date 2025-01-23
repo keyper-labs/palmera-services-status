@@ -1,4 +1,3 @@
----
 # Change these first
 owner: keyper-labs
 repo: palmera-services-status
@@ -96,10 +95,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: uptime.keypersafe.xyz
   favicon: https://app.palmeradao.xyz/favicon.ico
-  introMessage: Palmera Services Status
-  introTitle: Status for the **Palmera Services**
+  introMessage: Palmera Infrastructure Status
+  introTitle: Status for the **Palmera Infrastructure**
   logoUrl: https://2047386747-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5XJ6DPuAnCiNORg51ulK%2Fuploads%2Fqa0DwfBMwvw2oeITSqX4%2FPalmera-Sunset%20Logo.jpg?alt=media&token=ef3743e0-3a04-4fc4-98a4-fdc34efbf9cc
-  name: Palmera Services Status
+  name: Palmera Infrastructure Status
   navbar:
     - href: https://status.palmeradao.xyz
       title: Indexing Status
