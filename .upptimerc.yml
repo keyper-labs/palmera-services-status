@@ -90,10 +90,10 @@ sites:
 
 skipTopicsUpdate: true
 status-website:
-  baseUrl: /palmera-services-status
+  # baseUrl: /palmera-services-status
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: uptime.keypersafe.xyz
+  cname: status.palmeradao.xyz
   favicon: https://app.palmeradao.xyz/favicon.ico
   introMessage: Palmera Infrastructure Status
   introTitle: Status for the **Palmera Infrastructure**
