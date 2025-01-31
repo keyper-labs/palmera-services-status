@@ -1,7 +1,7 @@
 url: https://prod.flare-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 157
-lastUpdated: 2025-01-31T07:26:36.811Z
+responseTime: 180
+lastUpdated: 2025-01-31T07:36:07.805Z
 startTime: 2025-01-23T17:33:51.695Z
 generator: Upptime <https://github.com/upptime/upptime>
