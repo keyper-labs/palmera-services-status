@@ -1,7 +1,7 @@
 url: https://prod.neox-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 191
-lastUpdated: 2025-02-07T03:48:44.978Z
+responseTime: 368
+lastUpdated: 2025-02-07T03:58:04.204Z
 startTime: 2025-01-23T17:33:54.568Z
 generator: Upptime <https://github.com/upptime/upptime>
