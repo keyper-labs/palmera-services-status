@@ -1,7 +1,7 @@
 url: https://prod.cheese.transaction.keypersafe.xyz/check/
-status: down
-code: 502
-responseTime: 171
-lastUpdated: 2025-02-10T17:35:26.406Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-02-10T17:42:58.377Z
 startTime: 2024-03-19T10:34:24.824Z
 generator: Upptime <https://github.com/upptime/upptime>
