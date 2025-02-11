@@ -32,11 +32,11 @@ sites:
   - name: Palmera Core Config Services
     url: https://config.prod.keypersafe.xyz/check/
   - name: Palmera Tx Service (Ethereum)
-    url: https://prod.mainnet.transaction.keypersafe.xyz/check/
+    url: https://prod.mainnet.keypersafe.xyz/check/
   - name: Palmera Tx Service (Gnosis Chain)
     url: https://prod.gnosis.keypersafe.xyz/check/
   - name: Palmera Tx Service (Polygon - Matic)
-    url: https://prod.polygon.transaction.keypersafe.xyz/check/
+    url: https://prod.polygon.keypersafe.xyz/check/
   - name: Palmera Tx Service (Base)
     url: https://prod.base.keypersafe.xyz/check/
   - name: Palmera Tx Service (Celo)
