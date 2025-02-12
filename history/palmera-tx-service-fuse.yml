@@ -1,7 +1,7 @@
 url: https://prod.fuse.transaction.keypersafe.xyz/check/
-status: down
-code: 502
-responseTime: 9228
-lastUpdated: 2025-02-12T22:53:28.002Z
+status: up
+code: 200
+responseTime: 387
+lastUpdated: 2025-02-12T22:58:18.272Z
 startTime: 2024-03-19T10:34:24.824Z
 generator: Upptime <https://github.com/upptime/upptime>
