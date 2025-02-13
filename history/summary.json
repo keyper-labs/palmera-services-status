@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 508,
     "timeDay": 468,
-    "timeWeek": 507,
+    "timeWeek": 506,
     "timeMonth": 508,
     "timeYear": 508,
     "dailyMinutesDown": {}
@@ -141,7 +141,7 @@
     "uptimeYear": "100.00%",
     "time": 468,
     "timeDay": 448,
-    "timeWeek": 464,
+    "timeWeek": 463,
     "timeMonth": 468,
     "timeYear": 468,
     "dailyMinutesDown": {}
@@ -545,7 +545,7 @@
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 218,
-    "timeWeek": 220,
+    "timeWeek": 219,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {}
@@ -555,19 +555,19 @@
     "url": "https://prod.devnet-somnia.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.devnet-somnia.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-devnet-somnia",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 212,
-    "timeDay": 214,
+    "timeDay": 212,
     "timeWeek": 212,
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-02-13": 4
+      "2025-02-13": 5
     }
   },
   {
