@@ -40,19 +40,19 @@
     "url": "https://prod.mainnet.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.mainnet.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-ethereum",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 291,
-    "timeDay": 469,
+    "timeDay": 471,
     "timeWeek": 475,
     "timeMonth": 291,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-02-21": 1,
+      "2025-02-21": 12,
       "2025-02-11": 201,
       "2025-01-23": 13
     }
@@ -62,19 +62,19 @@
     "url": "https://prod.gnosis.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.gnosis.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-gnosis-chain",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 481,
-    "timeDay": 476,
+    "timeDay": 477,
     "timeWeek": 495,
     "timeMonth": 481,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 12
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://prod.base.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.base.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-base",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 474,
-    "timeDay": 482,
+    "timeDay": 484,
     "timeWeek": 463,
     "timeMonth": 474,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 12
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://prod.celo.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.celo.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-celo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 537,
-    "timeDay": 603,
+    "timeDay": 601,
     "timeWeek": 491,
     "timeMonth": 537,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 12
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://prod.arbitrum.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.arbitrum.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-arbitrum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 466,
-    "timeDay": 467,
-    "timeWeek": 448,
+    "timeDay": 469,
+    "timeWeek": 449,
     "timeMonth": 466,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-02-21": 1
+      "2025-02-21": 12
     }
   },
   {
@@ -198,11 +198,11 @@
     "url": "https://prod.arthera.transaction.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.arthera.transaction.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-arthera",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 217,
@@ -210,7 +210,7 @@
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-02-21": 2
+      "2025-02-21": 12
     }
   },
   {
@@ -310,19 +310,19 @@
     "url": "https://prod.degen.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.degen.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-degen",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 453,
-    "timeDay": 464,
-    "timeWeek": 461,
+    "timeDay": 465,
+    "timeWeek": 462,
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-02-21": 3
+      "2025-02-21": 12
     }
   },
   {
@@ -330,11 +330,11 @@
     "url": "https://prod.flare.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.flare.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-flare",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 213,
@@ -342,7 +342,7 @@
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-02-21": 3
+      "2025-02-21": 12
     }
   },
   {
@@ -350,19 +350,19 @@
     "url": "https://prod.flare-client-gateway.keypersafe.xyz/health/ready/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.flare-client-gateway.keypersafe.xyz.ico",
     "slug": "palmera-client-gateway-flare",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 218,
     "timeDay": 210,
     "timeWeek": 216,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-02-21": 3
+      "2025-02-21": 12
     }
   },
   {
@@ -406,11 +406,11 @@
     "url": "https://prod.fuse.transaction.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.fuse.transaction.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-fuse",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 210,
@@ -418,7 +418,7 @@
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-02-21": 3,
+      "2025-02-21": 12,
       "2025-02-12": 5
     }
   },
@@ -463,19 +463,19 @@
     "url": "https://prod.neox.transaction.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.neox.transaction.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-neox",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 214,
+    "timeDay": 213,
     "timeWeek": 228,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-02-21": 4
+      "2025-02-21": 12
     }
   },
   {
@@ -501,19 +501,19 @@
     "url": "https://prod.neox-t.transaction.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.neox-t.transaction.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-neox-testnet",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 216,
     "timeDay": 206,
     "timeWeek": 220,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-02-21": 4
+      "2025-02-21": 12
     }
   },
   {
@@ -541,19 +541,19 @@
     "url": "https://prod.wl-client-gateway.keypersafe.xyz/health/ready/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.wl-client-gateway.keypersafe.xyz.ico",
     "slug": "palmera-client-gateway-zeronet",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 215,
     "timeDay": 212,
     "timeWeek": 226,
     "timeMonth": 215,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-02-21": 4
+      "2025-02-21": 12
     }
   },
   {
@@ -561,19 +561,19 @@
     "url": "https://prod.zeronet-mainnet.transaction.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.zeronet-mainnet.transaction.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-zeronet",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 217,
-    "timeDay": 210,
+    "timeDay": 212,
     "timeWeek": 210,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-02-21": 4
+      "2025-02-21": 13
     }
   },
   {
