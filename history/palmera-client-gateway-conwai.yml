@@ -1,7 +1,7 @@
 url: https://prod.conwai-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 218
-lastUpdated: 2025-02-22T17:33:27.744Z
+responseTime: 211
+lastUpdated: 2025-02-22T18:04:33.695Z
 startTime: 2025-01-23T17:33:50.299Z
 generator: Upptime <https://github.com/upptime/upptime>
