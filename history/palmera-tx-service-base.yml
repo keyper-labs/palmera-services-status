@@ -1,7 +1,7 @@
 url: https://prod.base.keypersafe.xyz/check/
-status: down
-code: 503
-responseTime: 389
-lastUpdated: 2025-02-27T18:38:09.451Z
+status: up
+code: 200
+responseTime: 380
+lastUpdated: 2025-02-27T18:42:54.277Z
 startTime: 2025-01-23T17:33:44.375Z
 generator: Upptime <https://github.com/upptime/upptime>
