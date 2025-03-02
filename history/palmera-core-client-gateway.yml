@@ -1,7 +1,7 @@
 url: https://client-gateway-prod.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 588
-lastUpdated: 2025-03-02T08:34:57.811Z
+responseTime: 565
+lastUpdated: 2025-03-02T09:03:49.421Z
 startTime: 2024-06-14T14:46:50.293Z
 generator: Upptime <https://github.com/upptime/upptime>
