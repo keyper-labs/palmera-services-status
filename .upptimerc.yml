@@ -87,9 +87,9 @@ sites:
     url: https://prod.wl-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Zeronet)
     url: https://prod.zeronet-mainnet.transaction.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Devnet Somnia)
+  - name: Palmera Tx Service (Somnia Testnet)
     url: https://prod.somnia-testnet.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Devnet Somnia)
+  - name: Palmera Client Gateway (Somnia Testnet)
     url: https://prod.somnia-testnet-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Perennial)
     url: https://prod.perennial.keypersafe.xyz/check/
