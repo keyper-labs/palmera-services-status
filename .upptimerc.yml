@@ -1,31 +1,32 @@
+---
+crons:
+  - name: Uptime CI
+    'on':
+      schedule:
+        - cron: '*/5 * * * *'
+  - name: Updates CI
+    'on':
+      schedule:
+        - cron: '*/30 * * * *'
+  - name: Graphs CI
+    'on':
+      schedule:
+        - cron: '*/30 * * * *'
+  - name: Response Time CI
+    'on':
+      schedule:
+        - cron: '*/30 * * * *'
+  - name: Summary CI
+    'on':
+      schedule:
+        - cron: 30 0/3 * * *
+  - name: Static Site CI
+    'on':
+      schedule:
+        - cron: 0 0/3 * * *
 # Change these first
 owner: keyper-labs
 repo: palmera-services-status
-crons:
-  - name: Uptime CI
-    on:
-      schedule:
-        - cron: "*/5 * * * *"
-  - name: Updates CI
-    on:
-      schedule:
-        - cron: "*/30 * * * *"
-  - name: Graphs CI
-    on:
-      schedule:
-        - cron: "*/30 * * * *"
-  - name: Response Time CI
-    on:
-      schedule:
-        - cron: "*/30 * * * *"
-  - name: Summary CI
-    on:
-      schedule:
-        - cron: "30 0/3 * * *"
-  - name: Static Site CI
-    on:
-      schedule:
-        - cron: "0 0/3 * * *"
 sites:
   - name: Palmera Core Client Gateway
     url: https://client-gateway-prod.keypersafe.xyz/health/ready/
@@ -49,8 +50,6 @@ sites:
     url: https://prod.treasure.keypersafe.xyz/check/
   - name: Palmera Tx Service (Arthera)
     url: https://prod.arthera.transaction.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Cheese)
-    url: https://prod.cheese.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Chronicle Yellowstone Testnet)
     url: https://prod.chronicle-yellowstone.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Chronicle Yellowstone Testnet)
@@ -69,8 +68,6 @@ sites:
     url: https://prod.form.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Form)
     url: https://prod.form-client-gateway.keypersafe.xyz/health/ready/
-  - name: Palmera Tx Service (Fuse)
-    url: https://prod.fuse.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Goat Network)
     url: https://prod.goat-network.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Goat Network)
@@ -95,7 +92,6 @@ sites:
     url: https://prod.perennial.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Perennial)
     url: https://prod.perennial-client-gateway.keypersafe.xyz/health/ready/
-
 skipTopicsUpdate: true
 status-website:
   # baseUrl: /palmera-services-status
