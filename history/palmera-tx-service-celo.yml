@@ -1,7 +1,7 @@
 url: https://prod.celo.keypersafe.xyz/check/
-status: down
-code: 503
-responseTime: 344
-lastUpdated: 2025-04-07T22:59:25.633Z
+status: up
+code: 200
+responseTime: 734
+lastUpdated: 2025-04-07T23:05:39.638Z
 startTime: 2023-05-23T15:39:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
