@@ -37,7 +37,7 @@ sites:
   - name: Palmera Tx Service (Gnosis Chain)
     url: https://prod.gnosis.keypersafe.xyz/check/
   - name: Palmera Tx Service (Polygon - Matic)
-    url: https://prod.polygon.keypersafe.xyz/check/
+    url: https://prod.polygon.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Base)
     url: https://prod.base.keypersafe.xyz/check/
   - name: Palmera Tx Service (Celo)
