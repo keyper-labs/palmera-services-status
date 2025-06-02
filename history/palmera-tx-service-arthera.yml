@@ -1,7 +1,7 @@
 url: https://prod.arthera.transaction.keypersafe.xyz/check/
-status: down
-code: 525
-responseTime: 87
-lastUpdated: 2025-06-02T18:39:58.698Z
+status: up
+code: 200
+responseTime: 175
+lastUpdated: 2025-06-02T18:47:21.617Z
 startTime: 2024-03-19T10:34:24.824Z
 generator: Upptime <https://github.com/upptime/upptime>
