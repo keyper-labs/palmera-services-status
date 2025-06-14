@@ -1,7 +1,7 @@
 url: https://prod.goat-network-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 254
-lastUpdated: 2025-06-14T17:33:43.910Z
+responseTime: 165
+lastUpdated: 2025-06-14T18:02:54.875Z
 startTime: 2025-01-23T17:33:53.736Z
 generator: Upptime <https://github.com/upptime/upptime>
