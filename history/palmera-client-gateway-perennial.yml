@@ -1,7 +1,7 @@
 url: https://prod.perennial-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 198
-lastUpdated: 2025-06-20T11:33:22.758Z
+responseTime: 185
+lastUpdated: 2025-06-20T12:04:16.832Z
 startTime: 2022-04-27T08:51:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
