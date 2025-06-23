@@ -1,7 +1,7 @@
 url: https://prod.somnia-testnet-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 174
-lastUpdated: 2025-06-23T00:47:08.272Z
+responseTime: 156
+lastUpdated: 2025-06-23T02:38:39.500Z
 startTime: 2025-02-07T15:29:00.113Z
 generator: Upptime <https://github.com/upptime/upptime>
