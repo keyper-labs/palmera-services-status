@@ -28,36 +28,10 @@ crons:
 owner: keyper-labs
 repo: palmera-services-status
 sites:
-  - name: Palmera Core Client Gateway
-    url: https://client-gateway-prod.keypersafe.xyz/health/ready/
-  - name: Palmera Core Config Services
-    url: https://config.prod.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Ethereum)
-    url: https://prod.mainnet.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Gnosis Chain)
-    url: https://prod.gnosis.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Polygon - Matic)
-    url: https://prod.polygon.transaction.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Base)
-    url: https://prod.base.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Celo)
-    url: https://prod.celo.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Arbitrum)
-    url: https://prod.arbitrum.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Optimism)
-    url: https://prod.optimism.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Treasure)
-    url: https://prod.treasure.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Arthera)
-    url: https://prod.arthera.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Chronicle Yellowstone Testnet)
     url: https://prod.chronicle-yellowstone.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Chronicle Yellowstone Testnet)
     url: https://prod.chronicle-yellowstone-client-gateway.keypersafe.xyz/health/ready/
-  - name: Palmera Tx Service (Conwai)
-    url: https://prod.conwai.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Conwai)
-    url: https://prod.conwai-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Degen)
     url: https://prod.degen.keypersafe.xyz/check/
   - name: Palmera Tx Service (Flare)
@@ -78,8 +52,6 @@ sites:
     url: https://prod.neox-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Neox Testnet)
     url: https://prod.neox-t.transaction.keypersafe.xyz/check/
-  - name: Palmera Tx Service (XRPL EVM)
-    url: https://prod.xrplevm.transaction.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Zeronet)
     url: https://prod.wl-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Zeronet)
