@@ -40,7 +40,6 @@ sites:
     url: https://prod.flare-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Form)
     url: https://prod.form.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Form)
     url: https://prod.form-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Goat Network)
     url: https://prod.goat-network.keypersafe.xyz/check/
@@ -64,6 +63,28 @@ sites:
     url: https://prod.perennial.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Perennial)
     url: https://prod.perennial-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Matchain)
+    url: https://prod.matchain.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Matchain)
+    url: https://prod.matchain-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Hedera Mainnet)
+    url: https://prod.hedera-mainnet.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Hedera Mainnet)
+    url: https://prod.hedera-mainnet-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Hedera Testnet)
+    url: https://prod.hedera-testnet.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Coti Mainnet)
+    url: https://prod.coti-mainnet.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Coti Mainnet)
+    url: https://prod.coti-mainnet-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Hyperliquid)
+    url: https://prod.hyperliquid.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Hyperliquid)
+    url: https://prod.hyperliquid-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Z-Chain)
+    url: https://prod.z-chain.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Z-Chain)
+    url: https://prod.z-chain-client-gateway.keypersafe.xyz/health/ready/
 skipTopicsUpdate: true
 status-website:
   # baseUrl: /palmera-services-status
