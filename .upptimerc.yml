@@ -44,6 +44,10 @@ sites:
     url: https://prod.goat-network.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Goat Network)
     url: https://prod.goat-network-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Injective EVM Testnet)
+    url: https://prod.injectiveevm-testnet.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Injective EVM Testnet)
+    url: https://prod.injectiveevm-testnet-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Neox)
     url: https://prod.neox.transaction.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Neox)
