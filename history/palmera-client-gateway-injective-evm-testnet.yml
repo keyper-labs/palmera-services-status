@@ -1,7 +1,7 @@
 url: https://prod.injectiveevm-testnet-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 184
-lastUpdated: 2025-07-16T23:04:40.122Z
+responseTime: 196
+lastUpdated: 2025-07-17T23:04:51.525Z
 startTime: 2025-07-08T08:40:07.197Z
 generator: Upptime <https://github.com/upptime/upptime>
