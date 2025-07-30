@@ -1,7 +1,7 @@
 url: https://prod.hyperliquid-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 137
-lastUpdated: 2025-07-29T23:04:24.715Z
+responseTime: 164
+lastUpdated: 2025-07-30T23:04:26.040Z
 startTime: 2025-07-01T10:59:17.789Z
 generator: Upptime <https://github.com/upptime/upptime>
