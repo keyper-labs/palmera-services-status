@@ -1,7 +1,7 @@
 url: https://prod.injectiveevm-testnet.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 173
-lastUpdated: 2025-07-31T23:04:35.143Z
+status: down
+code: 502
+responseTime: 230
+lastUpdated: 2025-08-01T10:09:21.170Z
 startTime: 2025-07-08T08:40:06.744Z
 generator: Upptime <https://github.com/upptime/upptime>
