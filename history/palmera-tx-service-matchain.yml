@@ -1,7 +1,7 @@
 url: https://prod.matchain.keypersafe.xyz/check/
-status: down
-code: 502
-responseTime: 142
-lastUpdated: 2025-08-04T18:24:22.091Z
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2025-08-04T18:40:30.242Z
 startTime: 2025-07-01T10:59:13.889Z
 generator: Upptime <https://github.com/upptime/upptime>
