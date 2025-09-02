@@ -36,10 +36,6 @@ sites:
     url: https://prod.flare.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Flare)
     url: https://prod.flare-client-gateway.keypersafe.xyz/health/ready/
-  - name: Palmera Tx Service (Form)
-    url: https://prod.form.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Form)
-    url: https://prod.form-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Goat Network)
     url: https://prod.goat-network.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Goat Network)
