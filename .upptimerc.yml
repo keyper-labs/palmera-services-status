@@ -30,8 +30,6 @@ repo: palmera-services-status
 sites:
   - name: Palmera Tx Service (Chronicle Yellowstone Testnet)
     url: https://prod.chronicle-yellowstone.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Chronicle Yellowstone Testnet)
-    url: https://prod.chronicle-yellowstone-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Lit Chain)
     url: https://prod.lit-chain.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Lit Chain)
