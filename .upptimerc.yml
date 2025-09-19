@@ -38,8 +38,10 @@ sites:
     url: https://prod.xrpl-evm.keypersafe.xyz/check/
   - name: Palmera Tx Service (XRPL Testnet)
     url: https://prod.xrpl-evm-testnet.keypersafe.xyz/check/
-  - name: Palmera Tx Service (XRPL Client Gateway)
+  - name: Palmera Client Gateway (XRPL Client Gateway)
     url: https://prod.xrpl-evm-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Z-Chain Testnet)
+    url: https://prod.zephyr.keypersafe.xyz/check/
   - name: Palmera Tx Service (Flare)
     url: https://prod.flare.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Flare)
