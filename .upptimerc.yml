@@ -50,10 +50,7 @@ sites:
     url: https://prod.goat-network.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Goat Network)
     url: https://prod.goat-network-client-gateway.keypersafe.xyz/health/ready/
-  - name: Palmera Tx Service (Injective EVM Testnet)
-    url: https://prod.injectiveevm-testnet.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Injective EVM Testnet)
-    url: https://prod.injectiveevm-testnet-client-gateway.keypersafe.xyz/health/ready/
+
   - name: Palmera Tx Service (Neox)
     url: https://prod.neox.transaction.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Neox)
@@ -66,8 +63,6 @@ sites:
     url: https://prod.zeronet-mainnet.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Somnia Testnet)
     url: https://prod.somnia-testnet.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Somnia Testnet)
-    url: https://prod.somnia-testnet-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Perennial)
     url: https://prod.perennial.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Perennial)
@@ -98,6 +93,26 @@ sites:
     url: https://prod.sonic.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Sonic)
     url: https://prod.sonic-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Somnia Mainnet)
+    url: https://prod.somnia-mainnet.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Somnia Mainnet)
+    url: https://prod.somnia-mainnet-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Injective Mainnet)
+    url: https://prod.injective.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Injective Mainnet)
+    url: https://prod.injective-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (Story)
+    url: https://prod.story.keypersafe.xyz/check/
+  - name: Palmera Tx Service (Story Testnet)
+    url: https://prod.story-aeneid-testnet.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (Story)
+    url: https://prod.story-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (RedBelly Network)
+    url: https://prod.redbelly-network.keypersafe.xyz/check/
+  - name: Palmera Tx Service (RedBelly Network Testnet)
+    url: https://prod.redbelly-network-testnet.keypersafe.xyz/check/
+  - name: Palmera Client Gateway (RedBelly Network)
+    url: https://prod.redbelly-network-client-gateway.keypersafe.xyz/health/ready/
 skipTopicsUpdate: true
 status-website:
   # baseUrl: /palmera-services-status
