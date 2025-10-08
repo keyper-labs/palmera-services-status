@@ -1,7 +1,7 @@
 url: https://prod.xrpl-evm-testnet.keypersafe.xyz/check/
-status: down
-code: 502
-responseTime: 226
-lastUpdated: 2025-10-08T21:16:30.804Z
+status: up
+code: 200
+responseTime: 205
+lastUpdated: 2025-10-08T21:25:00.955Z
 startTime: 2025-09-19T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
