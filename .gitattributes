@@ -7,7 +7,3 @@
 
 # YAML
 *.yml linguist-detectable=true
-
-# AGENTS.md - AI Assistant documentation (completely ignored)
-AGENTS.md linguist-detectable=false
-AGENTS.md linguist-documentation=true
