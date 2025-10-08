@@ -1,7 +1,7 @@
 url: https://prod.zeronet-mainnet.transaction.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2025-10-08T08:04:32.147Z
+status: down
+code: 502
+responseTime: 230
+lastUpdated: 2025-10-08T21:16:38.494Z
 startTime: 2025-01-23T17:33:55.810Z
 generator: Upptime <https://github.com/upptime/upptime>
