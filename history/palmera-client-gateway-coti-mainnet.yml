@@ -1,7 +1,7 @@
 url: https://prod.coti-mainnet-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 161
-lastUpdated: 2025-10-12T23:03:48.331Z
+responseTime: 155
+lastUpdated: 2025-10-13T23:04:06.561Z
 startTime: 2025-07-01T10:59:16.847Z
 generator: Upptime <https://github.com/upptime/upptime>
