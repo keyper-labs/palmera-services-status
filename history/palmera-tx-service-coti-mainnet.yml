@@ -1,7 +1,7 @@
 url: https://prod.coti-mainnet.keypersafe.xyz/check/
-status: down
-code: 502
-responseTime: 149
-lastUpdated: 2025-10-14T08:39:26.434Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2025-10-14T08:47:43.825Z
 startTime: 2025-07-01T10:59:16.365Z
 generator: Upptime <https://github.com/upptime/upptime>
