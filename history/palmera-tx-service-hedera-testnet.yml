@@ -1,7 +1,7 @@
 url: https://prod.hedera-testnet.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 147
-lastUpdated: 2025-10-16T23:04:11.290Z
+status: down
+code: 502
+responseTime: 9180
+lastUpdated: 2025-10-17T15:42:02.128Z
 startTime: 2025-07-01T10:59:15.878Z
 generator: Upptime <https://github.com/upptime/upptime>
