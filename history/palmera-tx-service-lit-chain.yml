@@ -1,7 +1,7 @@
 url: https://prod.lit-chain.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2025-10-16T23:04:03.362Z
+status: down
+code: 502
+responseTime: 255
+lastUpdated: 2025-10-17T15:26:39.314Z
 startTime: 2025-09-19T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
