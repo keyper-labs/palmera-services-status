@@ -112,6 +112,8 @@ sites:
     url: https://prod.redbelly-network-testnet.keypersafe.xyz/check/
   - name: Palmera Client Gateway (RedBelly Network)
     url: https://prod.redbelly-network-client-gateway.keypersafe.xyz/health/ready/
+  - name: Palmera Tx Service (XO Market)
+    url: https://prod.xo-market.keypersafe.xyz/check/
 skipTopicsUpdate: true
 status-website:
   # baseUrl: /palmera-services-status
