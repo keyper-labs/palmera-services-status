@@ -817,17 +817,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.story-client-gateway.keypersafe.xyz.ico",
     "slug": "palmera-client-gateway-story",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 258,
-    "timeWeek": 217,
-    "timeMonth": 195,
-    "timeYear": 194,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 193,
+    "timeDay": 198,
+    "timeWeek": 206,
+    "timeMonth": 194,
+    "timeYear": 193,
+    "dailyMinutesDown": {
+      "2025-11-10": 10
+    }
   },
   {
     "name": "Palmera Tx Service (RedBelly Network)",
