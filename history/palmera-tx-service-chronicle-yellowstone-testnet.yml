@@ -1,7 +1,7 @@
 url: https://prod.chronicle-yellowstone.keypersafe.xyz/check/
-status: down
-code: 500
-responseTime: 81
-lastUpdated: 2025-11-18T11:47:56.058Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2025-11-18T12:13:01.717Z
 startTime: 2025-01-23T17:33:48.988Z
 generator: Upptime <https://github.com/upptime/upptime>
