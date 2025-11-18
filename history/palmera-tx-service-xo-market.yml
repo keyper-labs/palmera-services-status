@@ -1,7 +1,7 @@
 url: https://prod.xo-market.keypersafe.xyz/check/
-status: down
-code: 500
-responseTime: 66
-lastUpdated: 2025-11-18T12:45:19.908Z
+status: up
+code: 200
+responseTime: 217
+lastUpdated: 2025-11-18T14:38:13.050Z
 startTime: 2025-10-29T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
