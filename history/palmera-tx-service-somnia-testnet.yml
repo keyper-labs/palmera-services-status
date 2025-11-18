@@ -1,7 +1,7 @@
 url: https://prod.somnia-testnet.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 149
-lastUpdated: 2025-11-18T11:42:55.673Z
+status: down
+code: 500
+responseTime: 259
+lastUpdated: 2025-11-18T11:48:13.163Z
 startTime: 2025-02-07T15:28:59.660Z
 generator: Upptime <https://github.com/upptime/upptime>
