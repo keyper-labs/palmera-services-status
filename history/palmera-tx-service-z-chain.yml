@@ -1,7 +1,7 @@
 url: https://prod.z-chain.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 217
-lastUpdated: 2025-11-18T12:14:12.786Z
+status: down
+code: 500
+responseTime: 52
+lastUpdated: 2025-11-18T12:27:33.503Z
 startTime: 2025-07-01T10:59:18.276Z
 generator: Upptime <https://github.com/upptime/upptime>
