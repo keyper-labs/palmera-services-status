@@ -1,7 +1,7 @@
 url: https://prod.sonic.keypersafe.xyz/check/
-status: down
-code: 500
-responseTime: 49
-lastUpdated: 2025-11-18T11:36:39.051Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-11-18T11:43:17.652Z
 startTime: 2025-09-19T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
