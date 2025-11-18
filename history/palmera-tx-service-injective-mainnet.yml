@@ -1,7 +1,7 @@
 url: https://prod.injective.keypersafe.xyz/check/
-status: down
-code: 500
-responseTime: 51
-lastUpdated: 2025-11-18T12:27:41.320Z
+status: up
+code: 200
+responseTime: 220
+lastUpdated: 2025-11-18T14:37:49.541Z
 startTime: 2025-10-08T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
