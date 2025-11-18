@@ -1,7 +1,7 @@
 url: https://prod.goat-network.keypersafe.xyz/check/
-status: down
-code: 500
-responseTime: 101
-lastUpdated: 2025-11-18T14:44:51.793Z
+status: up
+code: 200
+responseTime: 368
+lastUpdated: 2025-11-18T14:52:02.426Z
 startTime: 2024-03-19T10:34:24.824Z
 generator: Upptime <https://github.com/upptime/upptime>
