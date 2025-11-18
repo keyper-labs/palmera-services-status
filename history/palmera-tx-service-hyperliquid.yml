@@ -1,7 +1,7 @@
 url: https://prod.hyperliquid.keypersafe.xyz/check/
-status: down
-code: 500
-responseTime: 44
-lastUpdated: 2025-11-18T12:27:29.677Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2025-11-18T14:37:29.428Z
 startTime: 2025-07-01T10:59:17.311Z
 generator: Upptime <https://github.com/upptime/upptime>
