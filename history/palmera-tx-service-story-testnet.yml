@@ -1,7 +1,7 @@
 url: https://prod.story-aeneid-testnet.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 248
-lastUpdated: 2025-11-17T23:04:47.162Z
+status: down
+code: 500
+responseTime: 48
+lastUpdated: 2025-11-18T11:36:49.617Z
 startTime: 2025-10-08T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
