@@ -1,7 +1,7 @@
 url: https://prod.redbelly-network.keypersafe.xyz/check/
-status: down
-code: 500
-responseTime: 49
-lastUpdated: 2025-11-18T12:27:49.358Z
+status: up
+code: 200
+responseTime: 227
+lastUpdated: 2025-11-18T14:38:04.266Z
 startTime: 2025-10-08T07:59:43.352Z
 generator: Upptime <https://github.com/upptime/upptime>
