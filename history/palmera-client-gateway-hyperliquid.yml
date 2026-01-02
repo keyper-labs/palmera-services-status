@@ -1,7 +1,7 @@
 url: https://prod.hyperliquid-client-gateway.keypersafe.xyz/health/ready/
 status: down
 code: 525
-responseTime: 65
-lastUpdated: 2026-01-01T23:05:04.496Z
+responseTime: 100
+lastUpdated: 2026-01-02T23:04:50.073Z
 startTime: 2025-07-01T10:59:17.789Z
 generator: Upptime <https://github.com/upptime/upptime>
