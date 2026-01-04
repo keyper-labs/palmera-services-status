@@ -1,7 +1,7 @@
 url: https://prod.sonic-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 212
-lastUpdated: 2026-01-03T23:05:11.018Z
+responseTime: 248
+lastUpdated: 2026-01-04T23:04:59.400Z
 startTime: 2025-09-19T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
