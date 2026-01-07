@@ -1,7 +1,7 @@
 url: https://prod.xrpl-evm-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 267
-lastUpdated: 2026-01-06T23:04:54.521Z
+responseTime: 157
+lastUpdated: 2026-01-07T23:05:06.780Z
 startTime: 2025-09-19T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
