@@ -1,7 +1,7 @@
 url: https://prod.matchain-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 154
-lastUpdated: 2026-01-08T23:04:51.715Z
+responseTime: 230
+lastUpdated: 2026-01-09T19:54:56.401Z
 startTime: 2025-07-01T10:59:14.383Z
 generator: Upptime <https://github.com/upptime/upptime>
