@@ -132,5 +132,5 @@ status-website:
       title: Indexing Status
     - href: https://palmeradao.xyz/deploy-safe-chain
       title: Palmera Infrastructure
-    - href: https://docs.palmeradao.xyz/
+    - href: https://docs.palmeradao.xyz/safe-multisig-deployment/
       title: Dev docs
