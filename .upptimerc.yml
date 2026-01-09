@@ -80,10 +80,6 @@ sites:
     url: https://prod.coti-mainnet.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Coti Mainnet)
     url: https://prod.coti-mainnet-client-gateway.keypersafe.xyz/health/ready/
-  - name: Palmera Tx Service (Hyperliquid)
-    url: https://prod.hyperliquid.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Hyperliquid)
-    url: https://prod.hyperliquid-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Z-Chain)
     url: https://prod.z-chain.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Z-Chain)
