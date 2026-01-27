@@ -1,7 +1,7 @@
 url: https://prod.neox-t.transaction.keypersafe.xyz/check/
-status: down
-code: 522
-responseTime: 19650
-lastUpdated: 2026-01-27T18:32:47.289Z
+status: up
+code: 200
+responseTime: 240
+lastUpdated: 2026-01-27T18:51:34.539Z
 startTime: 2025-01-23T14:24:02.075Z
 generator: Upptime <https://github.com/upptime/upptime>
