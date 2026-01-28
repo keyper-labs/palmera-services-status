@@ -1,7 +1,7 @@
 url: https://prod.z-chain-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 204
-lastUpdated: 2026-01-27T23:05:19.396Z
+responseTime: 219
+lastUpdated: 2026-01-28T23:07:17.335Z
 startTime: 2025-07-01T10:59:18.764Z
 generator: Upptime <https://github.com/upptime/upptime>
