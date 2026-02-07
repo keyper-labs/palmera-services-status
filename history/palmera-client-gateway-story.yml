@@ -1,7 +1,7 @@
 url: https://prod.story-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 282
-lastUpdated: 2026-02-06T23:07:01.343Z
+responseTime: 163
+lastUpdated: 2026-02-07T23:08:19.939Z
 startTime: 2025-10-08T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
