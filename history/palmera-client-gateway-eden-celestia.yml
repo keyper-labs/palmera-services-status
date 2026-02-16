@@ -1,7 +1,7 @@
 url: https://prod.eden-client-gateway.keypersafe.xyz/health/ready/
 status: down
 code: 403
-responseTime: 101
-lastUpdated: 2026-02-16T20:38:04.172Z
+responseTime: 128
+lastUpdated: 2026-02-16T21:38:22.686Z
 startTime: 2026-01-09T20:00:32.685Z
 generator: Upptime <https://github.com/upptime/upptime>
