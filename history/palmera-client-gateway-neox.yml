@@ -1,7 +1,7 @@
 url: https://prod.neox-client-gateway.keypersafe.xyz/health/ready/
 status: down
 code: 403
-responseTime: 134
-lastUpdated: 2026-02-16T20:37:00.992Z
+responseTime: 81
+lastUpdated: 2026-02-16T21:38:12.714Z
 startTime: 2025-01-23T17:33:54.568Z
 generator: Upptime <https://github.com/upptime/upptime>
