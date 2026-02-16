@@ -1,7 +1,7 @@
 url: https://prod.xrpl-evm-client-gateway.keypersafe.xyz/health/ready/
-status: down
-code: 403
-responseTime: 77
-lastUpdated: 2026-02-16T21:38:10.521Z
+status: up
+code: 200
+responseTime: 150
+lastUpdated: 2026-02-16T22:11:15.865Z
 startTime: 2025-09-19T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
