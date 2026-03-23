@@ -84,10 +84,6 @@ sites:
     url: https://prod.z-chain.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Z-Chain)
     url: https://prod.z-chain-client-gateway.keypersafe.xyz/health/ready/
-  - name: Palmera Tx Service (Sonic)
-    url: https://prod.sonic.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Sonic)
-    url: https://prod.sonic-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Somnia Mainnet)
     url: https://prod.somnia-mainnet.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Somnia Mainnet)
