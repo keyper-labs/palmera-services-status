@@ -1,7 +1,7 @@
 url: https://prod.creator-testnet.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 243
-lastUpdated: 2026-04-11T23:10:54.013Z
+status: down
+code: 502
+responseTime: 154
+lastUpdated: 2026-04-12T05:32:44.484Z
 startTime: 2026-01-09T20:00:31.448Z
 generator: Upptime <https://github.com/upptime/upptime>
