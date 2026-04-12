@@ -1,7 +1,7 @@
 url: https://prod.zephyr.keypersafe.xyz/check/
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2026-04-11T23:10:40.014Z
+status: down
+code: 502
+responseTime: 230
+lastUpdated: 2026-04-12T20:49:44.602Z
 startTime: 2025-09-19T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
