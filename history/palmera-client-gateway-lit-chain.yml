@@ -1,7 +1,7 @@
 url: https://prod.lit-chain-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 184
-lastUpdated: 2026-04-25T23:13:43.576Z
+responseTime: 176
+lastUpdated: 2026-04-26T23:14:45.321Z
 startTime: 2025-09-19T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
