@@ -100,8 +100,6 @@ sites:
     url: https://prod.redbelly-network-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (XO Market)
     url: https://prod.xo-market.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Creator Testnet)
-    url: https://prod.creator-testnet.keypersafe.xyz/check/
   - name: Palmera Tx Service (Eden Celestia Testnet)
     url: https://prod.eden-testnet.keypersafe.xyz/check/
   - name: Palmera Tx Service (Eden Celestia Mainnet)
