@@ -1,7 +1,7 @@
 url: https://prod.redbelly-network-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 200
-lastUpdated: 2026-05-23T23:20:05.662Z
+responseTime: 231
+lastUpdated: 2026-05-24T23:23:03.810Z
 startTime: 2025-10-08T07:59:44.502Z
 generator: Upptime <https://github.com/upptime/upptime>
