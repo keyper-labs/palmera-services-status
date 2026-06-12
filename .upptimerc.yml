@@ -28,12 +28,6 @@ crons:
 owner: keyper-labs
 repo: palmera-services-status
 sites:
-  - name: Palmera Tx Service (Chronicle Yellowstone Testnet)
-    url: https://prod.chronicle-yellowstone.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Lit Chain)
-    url: https://prod.lit-chain.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Lit Chain)
-    url: https://prod.lit-chain-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Z-Chain Testnet)
     url: https://prod.zephyr.keypersafe.xyz/check/
   - name: Palmera Tx Service (Flare)
