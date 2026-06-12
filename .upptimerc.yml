@@ -42,8 +42,6 @@ sites:
     url: https://prod.flare-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Goat Network)
     url: https://prod.goat-network.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Goat Network)
-    url: https://prod.goat-network-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Neox)
     url: https://prod.neox.transaction.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Neox)
@@ -70,10 +68,6 @@ sites:
     url: https://prod.hedera-mainnet-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Hedera Testnet)
     url: https://prod.hedera-testnet.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Coti Mainnet)
-    url: https://prod.coti-mainnet.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Coti Mainnet)
-    url: https://prod.coti-mainnet-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Z-Chain)
     url: https://prod.z-chain.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Z-Chain)
