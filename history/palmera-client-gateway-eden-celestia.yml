@@ -1,7 +1,7 @@
 url: https://prod.eden-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 138
-lastUpdated: 2026-07-28T23:21:37.122Z
+responseTime: 226
+lastUpdated: 2026-07-29T23:21:31.960Z
 startTime: 2026-01-09T20:00:32.685Z
 generator: Upptime <https://github.com/upptime/upptime>
