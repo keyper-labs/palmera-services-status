@@ -28,8 +28,6 @@ crons:
 owner: keyper-labs
 repo: palmera-services-status
 sites:
-  - name: Palmera Tx Service (Z-Chain Testnet)
-    url: https://prod.zephyr.keypersafe.xyz/check/
   - name: Palmera Tx Service (Flare)
     url: https://prod.flare.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Flare)
@@ -42,10 +40,6 @@ sites:
     url: https://prod.neox-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Neox Testnet)
     url: https://prod.neox-t.transaction.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Zeronet)
-    url: https://prod.wl-client-gateway.keypersafe.xyz/health/ready/
-  - name: Palmera Tx Service (Zeronet)
-    url: https://prod.zeronet-mainnet.transaction.keypersafe.xyz/check/
   - name: Palmera Tx Service (Somnia Testnet)
     url: https://prod.somnia-testnet.keypersafe.xyz/check/
   - name: Palmera Tx Service (Matchain)
@@ -58,10 +52,6 @@ sites:
     url: https://prod.hedera-mainnet-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Hedera Testnet)
     url: https://prod.hedera-testnet.keypersafe.xyz/check/
-  - name: Palmera Tx Service (Z-Chain)
-    url: https://prod.z-chain.keypersafe.xyz/check/
-  - name: Palmera Client Gateway (Z-Chain)
-    url: https://prod.z-chain-client-gateway.keypersafe.xyz/health/ready/
   - name: Palmera Tx Service (Somnia Mainnet)
     url: https://prod.somnia-mainnet.keypersafe.xyz/check/
   - name: Palmera Client Gateway (Somnia Mainnet)
