@@ -1,7 +1,7 @@
 url: https://prod.injective-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 133
-lastUpdated: 2026-08-16T23:03:46.311Z
+responseTime: 291
+lastUpdated: 2026-08-17T23:05:04.994Z
 startTime: 2025-10-08T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
