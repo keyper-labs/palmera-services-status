@@ -322,20 +322,21 @@
     "url": "https://prod.injective.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.injective.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-injective-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 206,
-    "timeDay": 229,
-    "timeWeek": 248,
-    "timeMonth": 231,
+    "timeDay": 214,
+    "timeWeek": 242,
+    "timeMonth": 230,
     "timeYear": 206,
     "dailyMinutesDown": {
       "2025-11-18": 172,
-      "2026-02-16": 95
+      "2026-02-16": 95,
+      "2026-09-10": 1
     }
   },
   {
