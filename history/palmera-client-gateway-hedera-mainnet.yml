@@ -1,7 +1,7 @@
 url: https://prod.hedera-mainnet-client-gateway.keypersafe.xyz/health/ready/
 status: up
 code: 200
-responseTime: 229
-lastUpdated: 2026-10-02T23:08:23.288Z
+responseTime: 140
+lastUpdated: 2026-10-03T23:51:17.766Z
 startTime: 2025-07-01T10:59:15.367Z
 generator: Upptime <https://github.com/upptime/upptime>
