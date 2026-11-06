@@ -395,7 +395,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.story-client-gateway.keypersafe.xyz.ico",
     "slug": "palmera-client-gateway-story",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -481,20 +481,21 @@
     "url": "https://prod.xo-market.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.xo-market.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-xo-market",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 206,
-    "timeDay": 262,
-    "timeWeek": 265,
-    "timeMonth": 244,
+    "timeDay": 243,
+    "timeWeek": 260,
+    "timeMonth": 243,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-11-18": 140,
-      "2026-02-16": 95
+      "2026-02-16": 95,
+      "2026-11-06": 2
     }
   },
   {
