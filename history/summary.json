@@ -391,20 +391,21 @@
     "url": "https://prod.redbelly-network.keypersafe.xyz/check/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.redbelly-network.keypersafe.xyz.ico",
     "slug": "palmera-tx-service-red-belly-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 212,
-    "timeDay": 267,
-    "timeWeek": 260,
-    "timeMonth": 250,
+    "timeDay": 234,
+    "timeWeek": 252,
+    "timeMonth": 249,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2026-02-16": 95,
-      "2026-03-25": 54
+      "2026-03-25": 54,
+      "2026-11-20": 2
     }
   },
   {
